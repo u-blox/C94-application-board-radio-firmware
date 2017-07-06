@@ -1,0 +1,3 @@
+FlashUtilCL.exe downloadusb -E BL_HM_TRP_007_03_39d8435639799b2afce04d78f19683e569107381.hex "" 0 1
+
+FlashUtilCL.exe downloadusb -R FW_HM_TRP_007_03_341a4c5601cb769a915aaba95419c1bbf6333a8e.hex "" 0 1
